@@ -1,0 +1,106 @@
+body{
+    font-family:  'Roboto' 'noto' sans-serif;
+
+}
+.card{
+    width: 100%;
+}
+.card-title, .card-text{
+    text-align: center;
+}
+.container{
+    display: blook;
+}
+}
+.container .navbar-brand{
+    margin-left: -90px;
+}
+.container input{
+    width: 550px;
+    margin-left: 190px;
+    margin-top: -50px;
+    margin-right: 150px;
+}
+.rech{
+    background-color: blueviolet;
+    width: 50px;
+    margin-left: 190px;
+    margin-top: -50px;
+    position: relative;
+}
+.container .micro{
+    margin-left: 750px;
+    margin-top: -50px;
+}
+.container .ajoutvideo{
+    margin-right: -120px;
+    margin-top: -40px;
+    margin-left: 950px;
+}
+.container .appli{
+    margin-left: 800px;
+    margin-top: -50px;
+}
+.container .notif{
+    margin-top: -50px;
+    margin-left: 830px;
+}
+.conbar{
+    margin-top: -75px;
+    margin-left: 850px;
+    width: 130px;
+}
+.badge{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.gauche{
+    margin-top: 7px; 
+    height: 35px; 
+    padding-top: 2px; 
+    padding-left: 8px;
+    font-family: 'ROBOTO';
+}
+.gauche a{
+    text-decoration: none;
+    color: #000;
+    font-size: 1px;
+}
+.gauche p{
+    font-size: 14px;
+}
+.gauche:hover{
+    background-color: darkgrey;
+}
+.separation{
+    border-top: darkgray solid 0.5px;
+    opacity: 0.55;
+}
+.connecter{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.imcon{
+    height: 30px;
+    border-radius: 100%;
+}
+#bgv{
+    background-color: #F9F9F9;
+    margin-top: 20px;
+}
+.video{
+    margin-left: 100px;
+}
+.logos{
+    margin-right: 100px;
+    width: 24px; height: 24px; border-radius: 100%;
+}
+.texte{
+    margin-top: -29px;
+    margin-left: 27px;
+    font-family: 'ROBOTO';
+}
+iframe{
+    width: 100%;
+    margin-top: 20px;
+}
